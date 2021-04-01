@@ -5,7 +5,7 @@ import { Outlet } from 'react-router-dom';
 import tailwind from './styles/tailwind.css';
 import styles from './styles/app.css';
 
-import background from './img/konstantin-tretyak-optimized.jpg';
+import background from './img/background.jpg';
 
 export let links: LinksFunction = () => {
   return [
@@ -28,7 +28,12 @@ export default function App() {
         <Meta />
         <Links />
       </head>
-      <body className='bg-gradient-to-r from-red-500'>
+      <body
+        style={{
+          backgroundImage: background,
+          backgroundSize: 'cover',
+        }}
+      >
         <Outlet />
 
         <footer>
