@@ -1,0 +1,9 @@
+/* styles/app.css */
+
+body {
+  font-family: 'Times New Roman';
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
