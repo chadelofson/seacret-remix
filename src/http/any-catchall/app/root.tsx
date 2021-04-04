@@ -1,6 +1,7 @@
 import type { LinksFunction, LoaderFunction } from '@remix-run/react';
 import { Meta, Links, Scripts, useRouteData } from '@remix-run/react';
 import { Outlet } from 'react-router-dom';
+import Header from './components/Header';
 
 import tailwind from './styles/tailwind.css';
 import styles from './styles/app.css';
@@ -30,15 +31,16 @@ export default function App() {
       </head>
       <body
         style={{
-          backgroundImage: background,
+          backgroundImage: `url(${background})`,
           backgroundSize: 'cover',
         }}
       >
+        <Header />
         <Outlet />
 
-        <footer>
-          <p>This page was rendered at {data.date.toLocaleString()}</p>
-        </footer>
+        {/* <footer>
+          <p className='text-white text-center'>Seacret Products Info</p>
+        </footer> */}
         <Scripts />
       </body>
     </html>

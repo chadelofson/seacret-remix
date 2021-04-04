@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
+    "css:watch": "postcss styles/**/*.css --base styles --dir app/styles --w",
+    "css:build": "postcss styles/**/*.css --base styles --dir app/styles --env production",
+    "dev": "pm2-dev pm2.config.js",
     "postinstall": "npm run build",
     "build": "remix build2",
     "start": "remix run2"
@@ -23,7 +26,9 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "autoprefixer": "10.2.5",
+    "pm2": "4.5.6",
     "postcss": "8.2.9",
+    "postcss-cli": "8.3.1",
     "tailwindcss": "2.0.4",
     "typescript": "^4.1.2"
   },

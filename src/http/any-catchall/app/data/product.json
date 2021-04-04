@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Bio Shield Complex Beauty Sleep Mask",
+    "description": "Indulge in this lavender scented creamy gel each night for dreamy looking skin in the morning.",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_BEAUTYSLEEPMASK_250X250_1_30200.png",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_BEAUTYSLEEPMASK_1000X1000_1_30201.png",
+    "slug": "bio-shield-complex-beauty-sleep-mask"
+  },
+  {
+    "name": "Bio Shield Complex Dynamic Radiance Essence",
+    "description": "Layer on this indulgent essence to saturate your skin with our supercharged formula that shields your beautiful complexion",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_DYNAMICRADIANCEWATER_250X250_1_30202.png",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_DYNAMICRADIANCEWATER_1000X1000_1_30203.png",
+    "slug": "bio-shield-complex-dynamic-radiance-essence"
+  },
+  {
+    "name": "Bio Shield Complex Radiance Hydrating Water 120ml",
+    "description": "Treat your skin to this next generation toner that moisturizes and tones your skin in preparation for your treatments and moisturizer.",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_RADIANCEHYDRATINGWATER_250X250_1_30204.png",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_RADIANCEHYDRATINGWATER_1000X1000_1_30205.png",
+    "slug": "bio-shield-complex-radiance-hydrating-water-120ml"
+  },
+  {
+    "name": "Bio Shield Complex Supercharged Eye Cream",
+    "description": "",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_SUPERCHARGEDEYECREAM_250X250_1_30206.png",
+    "imgDetail": "",
+    "slug": "bio-shield-complex-supercharged-eye-cream"
+  },
+  {
+    "name": "Bio Shield Complex Supercharged Moisture Cream",
+    "description": "Shield your beautiful complexion with this patent-pending hydrating formula that provides the moisturizing layer for your skin.",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_SUPERCHARGEDMOISTURECREAM_250X250_1_30208.png",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_SUPERCHARGEDMOISTURECREAM_1000X1000_1_30209.png",
+    "slug": "bio-shield-complex-supercharged-moisture-cream"
+  },
+  {
+    "name": "Bio Shield Complex Supercharged Moisture Lotion",
+    "description": "Shield your beautiful complexion with this patent-pending hydrating formula that provides the moisturizing layer for your skin.",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_SUPERCHARGEDMOISTURELOTION_250X250_1_30210.png",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/US_20200914_SUPERCHARGEDMOISTURELOTION_1000X1000_1_30211.png",
+    "slug": "bio-shield-complex-supercharged-moisture-lotion"
+  },
+  {
+    "name": "Mineral-Rich Hydrating Mud Shampoo",
+    "description": "Get luscious looking hair with this hydrating, mineral-packed and SLS free formula.",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/MUD_SHAMPOO_500ML_NEW_250X250_15117.png",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/MUD_SHAMPOO_500ML_NEW_1000X1000_15116.jpg",
+    "slug": "mineral-rich-hydrating-mud-shampoo"
+  },
+  {
+    "name": "Pro Styling Wide Hair Brush",
+    "description": "Detangle, smooth, and style for salon-quality results with innovative brushes that promote healthy-looking hair. Ideal for all hair types, this innovative brush is designed for easy, every-day smoothing and styling.",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/HAIR_BRUSH_THUMB_14519.jpg",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/HAIR_BRUSH_14518.jpg",
+    "slug": "pro-styling-wide-hair-brush"
+  },
+  {
+    "name": "PURE Purifying Hair & Scalp Shampoo",
+    "description": "Let the Dead Sea mineral salts go to your head for a legendary cleansing ritual that conditions the scalp, leaving a refreshed feeling and healthy vibrant looking hair",
+    "img": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/PURESALTSHAMPOO_THUMB_250X250_19400.jpg",
+    "imgDetail": "https://c06f4633e8fbf280ff7b-531ca14677673103300e8c53210a758f.ssl.cf1.rackcdn.com/PURESALTSHAMPOO_LARGE_1000X1000_19399.jpg",
+    "slug": "pure-purifying-hair-&-scalp-shampoo"
+  }
+]

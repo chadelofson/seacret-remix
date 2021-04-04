@@ -8,6 +8,11 @@ module.exports = {
       fontFamily: {
         sans: ['Inter var', ...defaultTheme.fontFamily.sans],
       },
+      colors: {
+        brand: {
+          primary: '#3276b1',
+        },
+      },
     },
   },
   variants: {
