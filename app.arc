@@ -1,12 +1,12 @@
 @app
-remix-starter-architect
+seacret-app
 
 @http
 any /*
 
 @static
 
-# @aws
-# profile default
-# region us-west-1
+@aws
+profile admin
+region ca-central-1
   
